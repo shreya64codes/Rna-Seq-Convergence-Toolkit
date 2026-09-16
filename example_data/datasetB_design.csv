@@ -1,0 +1,9 @@
+sample,condition,patient_id
+B_case1,case,Q1
+B_case2,case,Q2
+B_case3,case,Q3
+B_case4,case,Q4
+B_ctrl1,control,Q5
+B_ctrl2,control,Q6
+B_ctrl3,control,Q7
+B_ctrl4,control,Q8
