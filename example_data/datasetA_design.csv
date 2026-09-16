@@ -1,0 +1,11 @@
+sample,condition,patient_id
+A_case1,case,P1
+A_case2,case,P2
+A_case3,case,P3
+A_case4,case,P4
+A_case5,case,P5
+A_ctrl1,control,P6
+A_ctrl2,control,P7
+A_ctrl3,control,P8
+A_ctrl4,control,P9
+A_ctrl5,control,P10
